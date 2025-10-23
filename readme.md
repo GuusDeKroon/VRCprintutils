@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="VRC Print Utils banner">
+  <img src="banner-min.png" alt="VRC Print Utils banner">
 </p>
 
 # VRC Print Utils
