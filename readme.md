@@ -7,7 +7,7 @@ I decided to upload it in case it helps anyone else doing the same things.
 - Switch between **light/dark frame**
 - Works with the original **landscape** or the **portrait** this tool makes
 - Non-destructive filenames with suffixes (`-orientation`, `-darkmode` / `-lightmode`)
-- Bicubic scaling everywhere it resizes
+- Bicubic scaling everywhere it resizes (it never resizes the picture; only the box)
 
 ---
 
