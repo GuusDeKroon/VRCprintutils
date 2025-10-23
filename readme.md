@@ -1,7 +1,7 @@
 # VRC Print Utils
 
 Small, vibe-coded script I use to light/darkmode and change orientation on VRChat prints.  
-I decided to upload it in case it helps anyone else doing the same dance.
+I decided to upload it in case it helps anyone else doing the same things.
 
 - Rotate the inner **photo** (clockwise/counter-clockwise) and rebuild the print box
 - Switch between **light/dark frame**
