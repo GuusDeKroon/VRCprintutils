@@ -5,7 +5,7 @@ I decided to upload it in case it helps anyone else doing the same things.
 
 - Rotate the inner **photo** (clockwise/counter-clockwise) and rebuild the print box
 - Switch between **light/dark frame**
-- Works with the original **landscape 2048×1440** or the portrait **1152×2123** this tool makes
+- Works with the original **landscape** or the **portrait** this tool makes
 - Non-destructive filenames with suffixes (`-orientation`, `-darkmode` / `-lightmode`)
 - Bicubic scaling everywhere it resizes
 
